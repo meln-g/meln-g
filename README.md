@@ -20,7 +20,7 @@
 <h2 align="center">౨ৎ About me</h2>
 
 <p align="left">
-  <img src="icon1.png" align="right" width="380">
+  <img src="icon1.png" align="right" width="350">
   <div>
     
 Hello! I'm **Melissa Gonçalves** — a Security Engineering student at **UFABC** with a focus on *cybersecurity, network security, cloud infrastructure, and intelligent systems*.
@@ -29,13 +29,15 @@ Currently conducting undergraduate research in ***OpenRAN/5G Security + Machine 
 
 My research explores how *raw I/Q signal samples, radio signatures, and machine learning techniques* can be used to improve security in **disaggregated OpenRAN architectures** and **5G environments**.
 
+<br clear="right"/>
+
   </div>
 </p>
 
 <br>
 
 <p align="right">
-  <img src="icon2.png" width="300" align="left" />
+  <img src="icon2.png" width="380" align="left" />
   <div>
     
 <h3>Building toward ˎˊ˗</h3>
