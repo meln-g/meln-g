@@ -42,8 +42,6 @@ My research explores how *raw I/Q signal samples, radio signatures, and machine 
     
 <h3>Building toward ˎˊ˗</h3>
 
-<img src="suaimagem.png" width="200" align="left"/>
-
 <img src="assets/building-toward.svg"/>
 
 <br clear="left"/>
