@@ -33,6 +33,19 @@ My research explores how *raw I/Q signal samples, radio signatures, and machine 
 </p>
 
 
+<img src="icon2.png" width="320" align="left" />
+
+### 🎓 Academic Background
+
+**Bachelor's Degree in Science & Technology**
+Federal University of ABC (UFABC)
+
+**Bachelor's Degree in Computer Science**
+Federal University of ABC (UFABC)
+
+<br clear="left"/>
+
+
 
 <br clear="right">
 
