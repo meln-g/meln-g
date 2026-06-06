@@ -1,21 +1,22 @@
 <svg width="480" height="210" viewBox="0 0 480 210" xmlns="http://www.w3.org/2000/svg">
+  
   <!-- Item 1 -->
-  <text x="0" y="60" font-family="monospace" font-size="12" fill="#cccccc">Cloud Security Engineering &amp; DevSecOps</text>
+  <text x="0" y="60" font-family="monospace" font-size="16" fill="#cccccc">Cloud Security Engineering &amp; DevSecOps</text>
   <rect x="0" y="68" width="440" height="8" rx="4" fill="#2d2d2d"/>
   <rect x="0" y="68" width="88" height="8" rx="4" fill="#A855F7"/>
 
   <!-- Item 2 -->
-  <text x="0" y="102" font-family="monospace" font-size="12" fill="#cccccc">AI/ML Security (Adversarial ML, LLM Security)</text>
+  <text x="0" y="102" font-family="monospace" font-size="16" fill="#cccccc">AI/ML Security (Adversarial ML, LLM Security)</text>
   <rect x="0" y="110" width="440" height="8" rx="4" fill="#2d2d2d"/>
   <rect x="0" y="110" width="88" height="8" rx="4" fill="#A855F7"/>
 
   <!-- Item 3 -->
-  <text x="0" y="144" font-family="monospace" font-size="12" fill="#cccccc">OpenRAN &amp; 5G Infrastructure Security</text>
+  <text x="0" y="144" font-family="monospace" font-size="16" fill="#cccccc">OpenRAN &amp; 5G Infrastructure Security</text>
   <rect x="0" y="152" width="440" height="8" rx="4" fill="#2d2d2d"/>
   <rect x="0" y="152" width="176" height="8" rx="4" fill="#A855F7"/>
 
   <!-- Item 4 -->
-  <text x="0" y="186" font-family="monospace" font-size="12" fill="#cccccc">Security Engineering for Distributed Systems</text>
+  <text x="0" y="186" font-family="monospace" font-size="16" fill="#cccccc">Security Engineering for Distributed Systems</text>
   <rect x="0" y="194" width="440" height="8" rx="4" fill="#2d2d2d"/>
   <rect x="0" y="194" width="176" height="8" rx="4" fill="#A855F7"/>
 </svg>
