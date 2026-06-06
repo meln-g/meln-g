@@ -37,14 +37,29 @@ My research explores how *raw I/Q signal samples, radio signatures, and machine 
 
 
 <p align="right">
-  <img src="icon2.png" width="380" align="left" />
+  <img src="icon2.png" width="400" align="left" />
   <div>
     
 <h3>Building toward ˎˊ˗</h3>
 
-<img src="assets/building-toward.svg"/>
+⤹ Cloud Security Engineering & DevSecOps
 
-<br clear="left"/>
+⤹ AI/ML Security (Adversarial ML, LLM Security)
+
+⤹ OpenRAN & 5G Infrastructure Security
+
+⤹ Security Engineering for Distributed Systems
+
+
+---
+
+<h3>Certifications & Certificates ˎˊ˗</h3>
+
+◔ Google Cybersecurity Professional Certificate
+
+◔ Cisco Junior Cybersecurity Analyst
+
+◔ CompTIA Security+ (long-term goal)
 
   </div>
 </p>
