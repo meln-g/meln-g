@@ -1,4 +1,5 @@
 <div align="center">
+  
   <p align="center">
   <img src="cover.gif" alt="Cover" width="100%">
 </p>
@@ -34,7 +35,6 @@ My research explores how *raw I/Q signal samples, radio signatures, and machine 
   </div>
 </p>
 
-<br>
 
 <p align="right">
   <img src="icon2.png" width="380" align="left" />
@@ -42,81 +42,51 @@ My research explores how *raw I/Q signal samples, radio signatures, and machine 
     
 <h3>Building toward ˎˊ˗</h3>
 
-⤷ Cloud Security Engineering & DevSecOps
+<img src="suaimagem.png" width="200" align="left"/>
 
-⤷ AI/ML Security (Adversarial ML, LLM Security)
+<img src="assets/building-toward.svg"/>
 
-⤷ OpenRAN & 5G Infrastructure Security
-
-⤷ Security Engineering for Distributed Systems
+<br clear="left"/>
 
   </div>
 </p>
 
-
-
-
-
-
-
 <br clear="left"/>
-
-
 
 <br clear="right">
 
-<div align="center">
-<h3>Technologies</h3>
-</div>
+
 
 ---
 
+<h2 align="center">౨ৎ Current Stack</h2>
+
 <div align="center">
+  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23A855F7.svg?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23A855F7.svg?style=for-the-badge&logo=linux&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23A855F7.svg?style=for-the-badge&logo=hackthebox&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23A855F7.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%23A855F7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23A855F7.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23A855F7.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23A855F7.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 
-
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23A855F7.svg?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-%23A855F7.svg?style=for-the-badge&logo=go&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23A855F7.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23A855F7.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23A855F7.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23A855F7.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-<br>
+---
+<h2 align="center">౨ৎ Profile Metrics</h2>
 
 <div align="center">
-<h3>Statistics</h3>
-</div>
-
----
-
-</br>
-
-<p align="right">
-  <img src="b71d7a5d70d797e1eef107212b528084.jpg" align="left" width="220" style="margin-right: 20px;">
-  <img src="https://streak-stats.demolab.com?user=meln-g&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
-  <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meln-g&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
-</p>
-
-<br clear="left">
-
-<br clear="left">
-
-<br>
-
----
-## Statistics
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=meln-g-0&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/github/commit-activity/y/meln-g/meln-g?style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/github/repo-size/meln-g/meln-g?style=for-the-badge&color=blueviolet"/>
+  
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=meln-g&locale=en&mode=daily&hide_border=false&border_radius=5&background=00000000&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=A855F7" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=meln-g&show_icons=true&hide_border=false&bg_color=00000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meln-g&bg_color=00000000&color=ffffff&line=A855F7&point=A855F7&area=true&hide_border=false"/>
+
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meln-g&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-</div>
+---
