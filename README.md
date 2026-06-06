@@ -20,7 +20,7 @@
 <h2 align="center">౨ৎ About me</h2>
 
 <p align="left">
-  <img src="icon1.png" align="right" width="400" style="margin-left: 5px; border-radius: 1px;">
+  <img src="icon1.png" align="right" width="380">
   <div>
     
 Hello! I'm **Melissa Gonçalves** — a Security Engineering student at **UFABC** with a focus on *cybersecurity, network security, cloud infrastructure, and intelligent systems*.
